@@ -3,9 +3,9 @@
 #### Technical Skills:PL/SQL, Python, Machine Learning, AI, GitHub
 
 ## Education
--University of Bharain (2020-present)
+- University of Bharain (2020-present)
  BSc. Software Engineering
--Khawla Secondary Grils School
+- Khawla Secondary Grils School
  Hight School Diploma (In Biochemistry)
  Grade: 94.2%
 
