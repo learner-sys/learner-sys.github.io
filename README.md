@@ -1,11 +1,13 @@
-# Data Scientist
+# Senior Software Engineer student
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills:PL/SQL, Python, Machine Learning, AI, GitHub
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+-University of Bharain (2020-present)
+ BSc. Software Engineering
+-Khawla Secondary Grils School
+ Hight School Diploma (In Biochemistry)
+ Grade: 94.2%
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
