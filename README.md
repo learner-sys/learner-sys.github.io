@@ -5,7 +5,7 @@
 
 ## Education						       		
 - BSc. Software Engineering	| University of Bharain (_2020-present_)	 			        		
-- Hight School Diploma (In Biochemistry) | Khawla Secondary Grils School (_2017-2020_)
+- High School Diploma (In Biochemistry) | Khawla Secondary Grils School (_2017-2020_)
 
 ## Projects
 ### Library management System
