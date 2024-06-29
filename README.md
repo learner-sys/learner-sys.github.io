@@ -4,7 +4,7 @@
 #### Interpersonal Skills: Problem Solving, Analytical performance, Communication, Good Team Player
 
 ## Education						       		
-- BSc. Software Engineering	| University of Bharain (_2020-present_)	 			        		
+- BSc. Software Engineering	| University of Bharain (_2020-2024_)	 			        		
 - High School Diploma (Biochemistry) | Khawla Secondary Grils School (_2017-2020_)
 
 ## Projects
