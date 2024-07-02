@@ -11,15 +11,21 @@
 ### Library management System
 [Library management System](https://github.com/learner-sys/Library-management-System)
 
+![Library management System](/images/LIBRARY-MANAGEMENT-SYSTEM-min.png)
+
 The Library Managment System is an application that maintains information about books and members in a library. It includes a class called Book with data members like title, author1, author2, publisher, yearPublication, isbn, accessionNum, and issuedTo. The LibrarySystem class has data members like booksList, membersList, booksListSize, membersListSize, and membersListSize. The class includes methods like constructor, addBook, deleteBook, addMember, searchBook, isEmptyBooksList, sizeBooksList, issueBook, returnBook, printBooksIssued, and isBookIssued. A class called LibraryMain is used to test all functionalities of the LibrarySystem. The main method is a menu-driven program using a switch statement. The library system is built using a LinkedList built-in class in Java.
 
 ###	Cyber Crime and Its Effects on Society in Our Digital Era 
 Research
 
+![Cyber Crime and Its Effects on Society in Our Digital Era](/images/cybercrime.png)
+
 Cybercrimes are a type of computer and Internet crime that targets cyber security systems that protect information and contacts to harm piracy, violation of property rights, extortion, or fraud. These crimes cause much damage to institutions and individuals. Therefore, this report will be discussing how deep can cyberattacks have impacts on various levels. Also, how can this type of crime be prevented and stopped by awareness and protection methods applied by individuals and institutions, and steps taken by the government to prohibit such crime.
 
 ###	Hospital data management system 
 [Hospital data management system (BH hospital's)](https://github.com/learner-sys/Hospital-data-management-system)
+
+![Hospital data management system](/images/hospital-DB.png)
 
 This project implements Oracel APEX to create a DBMS, deploying the EER daigram, relational schema, and applying some SQL queries. BH's Hospital is an application that displays Bahrain's small organizations' hospitals, providing users with information about departments, employees, medical procedures, and directions. The application is designed to be 24/7, providing updated information on patient services, treatments, technologies, and community involvement. It also ensures that patients can access necessary information at any time, eliminating the need for contact. 
 
