@@ -25,35 +25,35 @@ Cybercrimes are a type of computer and Internet crime that targets cyber securit
 ###	Hospital data management system 
 [Hospital data management system (BH hospital's)](https://github.com/learner-sys/Hospital-data-management-system)
 
-![Hospital data management system](/images/hospitalDB.png)
+![Hospital data management system](/images/hospital.png)
 
 This project implements Oracel APEX to create a DBMS, deploying the EER daigram, relational schema, and applying some SQL queries. BH's Hospital is an application that displays Bahrain's small organizations' hospitals, providing users with information about departments, employees, medical procedures, and directions. The application is designed to be 24/7, providing updated information on patient services, treatments, technologies, and community involvement. It also ensures that patients can access necessary information at any time, eliminating the need for contact. 
 
 ### Online Trip Planner
 [Online Trip Planner](https://github.com/learner-sys/Online-Trip-Planner)
 
-![Online Trip Planner](/images/tripplanner.png)
+![Online Trip Planner](/images/trip.png)
 
 The project aims to design an interactive online trip planner prototype that helps users plan their vacations and road trips efficiently. The planner involves planning, selecting, organizing, and arranging typography, photographs, graphics, illustrations, colors, and videos. It also allows users to input accommodation, transport, itinerary details, share trips, forward confirmation emails, and send real-time alerts. The project focuses on main options, graphical guidelines, and goals, including location search, exploration, destination input, suggested itinerary, sightseeing locations, and balanced incorporation of video or text.
 
 ### Poll Maker Website
 [Poll Maker Website](https://github.com/learner-sys/Poll-Maker-Website)
 
-![Poll Maker Website](/images/Pollmakerhomepage.png)
+![Poll Maker Website](/images/poll.png)
 
 This project aims to create a simple poll maker website using Xampp server that provieds user to create type of question (Multiple-Choice) for voting. The main functionalities include website design, registration and login, user profile management, and participation. The website uses basic HTML/CSS/Media Query and is attractive and unified. Users can register themselves using a unique email and password, and AJAX is used to verify email and password. Users can browse open and ended polls, while public guests only able to browse all polls. Users can create new polls with titles, questions, and options, and end polls by clicking the STOP button or scheduling a end date and vote.
 
 ### Framework of smart houses  
 Research
 
-![Framework of smart houses](/images/samrthouses.jpeg)
+![Framework of smart houses](/images/smart-home-background.png)
 
 Recently, the phrase ”Smart Houses” has gained popularity, and these homes are the product of technical advancement and contemporary technology. Smart houses are equipped with various automated systems that can be controlled remotely, such as lighting, heating, and security. Additionally, they often include features such as voice-activated assistants and energy-efficient appliances with required security to make daily life more convenient and environmentally friendly. This research will analyse the smart house and the framework needed to live a personalized life. Conducting the theory of smart houses and discussing its impacts on the modern society. The research will illustrate the analysis of smart house components and which advantages and disadvantages cover the aspects or our framework. Moreover, discussing the agitation of future of smart houses. A research report has been used in this study to take a qualitative approach. The survey was used to collect data. The results indicate that the majority are familiar with the concept of smart houses and agree on the future of smart houses. The prospect for smart homes to fundamentally alter the way we live and interact with our houses is enormous as technology evolves. It is obvious that smart technology will keep playing a big role in influencing how our houses and everyday lives develop in the future.
 
 ### Monte Carlo Method & Synchronous Computations
 [Monte Carlo Method & Synchronous Computations](https://github.com/learner-sys/Monte-Carlo-Method-Synchronous-Computations)
 
-![Monte Carlo Method](/images/monte-carlo.jpg)
+![Monte Carlo Method](/images/monte.jpg)
 
 This project aim to use Parallel and Distributed Computing methods. The Monte Carlo Method is used to estimate the value of pi by estimating the number of darts hitting a circle with a radius of 1 unit. The program is then used to solve a problem with a number of tosses = 100,000, with different number of processes (2- 8 processes). The Synchronous Computations, A metal plate with 100 degrees of heat applied on each side has a 40-degree initial temperature. A program simulates temperature changes over 1000 cycles, partitioning the matrix based on rows. The program uses openMP with different threads (2-8) and different loop scheduling strategies.
 
