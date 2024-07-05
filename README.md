@@ -1,4 +1,4 @@
-# Senior Software Engineer student
+# Software Engineer Fresh Graduate
 
 #### Technical Skills: Machine Learning, Artificial Intelligence, PL/SQL, Python, GitHub
 #### Interpersonal Skills: Analytical performance, Problem Solving, Communication, Good Team Player
@@ -32,7 +32,7 @@ This project implements Oracel APEX to create a DBMS, deploying the EER daigram,
 ### Online Trip Planner
 [Online Trip Planner](https://github.com/learner-sys/Online-Trip-Planner)
 
-![Online Trip Planner](/images/trip.png)
+![Online Trip Planner](/images/trip.jpg)
 
 The project aims to design an interactive online trip planner prototype that helps users plan their vacations and road trips efficiently. The planner involves planning, selecting, organizing, and arranging typography, photographs, graphics, illustrations, colors, and videos. It also allows users to input accommodation, transport, itinerary details, share trips, forward confirmation emails, and send real-time alerts. The project focuses on main options, graphical guidelines, and goals, including location search, exploration, destination input, suggested itinerary, sightseeing locations, and balanced incorporation of video or text.
 
